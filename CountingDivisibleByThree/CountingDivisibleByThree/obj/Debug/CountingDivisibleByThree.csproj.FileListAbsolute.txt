@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ProblemsAndAlgorithms\CountingDivisibleByThree\CountingDivisibleByThree\bin\Debug\CountingDivisibleByThree.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ProblemsAndAlgorithms\CountingDivisibleByThree\CountingDivisibleByThree\bin\Debug\CountingDivisibleByThree.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ProblemsAndAlgorithms\CountingDivisibleByThree\CountingDivisibleByThree\bin\Debug\CountingDivisibleByThree.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ProblemsAndAlgorithms\CountingDivisibleByThree\CountingDivisibleByThree\obj\Debug\CountingDivisibleByThree.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ProblemsAndAlgorithms\CountingDivisibleByThree\CountingDivisibleByThree\obj\Debug\CountingDivisibleByThree.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ProblemsAndAlgorithms\CountingDivisibleByThree\CountingDivisibleByThree\obj\Debug\CountingDivisibleByThree.pdb

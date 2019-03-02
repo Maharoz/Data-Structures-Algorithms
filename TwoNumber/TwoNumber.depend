@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551509245 source:f:\problem-solving-and-algorithms\twonumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

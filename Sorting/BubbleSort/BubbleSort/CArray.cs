@@ -28,7 +28,14 @@ namespace BubbleSort
         public void DisplayElements()
         {
             for (int i = 0; i <= upper; i++)
+            {
+                
                 Console.Write(arr[i] + " ");
+                //it will show the passes clearly
+                if (i == upper)
+                    Console.WriteLine();
+            }
+            
         }
 
         public void Clear()

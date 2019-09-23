@@ -12,16 +12,19 @@ namespace PushNotificationXamarin
     {
         static void Main(string[] args)
         {
+            string deviceId="88b30f7d-771b-4cf9-8088-0bb16eb03068";
             var request = WebRequest.Create("https://onesignal.com/api/v1/notifications") as HttpWebRequest;
 
             request.KeepAlive = true;
             request.Method = "POST";
             request.ContentType = "application/json; charset=utf-8";
+            string data = 
+                "{"+ "\"app_id\": \"b5f5a37e-f5e1-4663-b008-877dd5ad96d8\","
+                + "\"contents\": {\"en\": \"Akash Message done\"},"
+                + "\"include_player_ids\": [" +"\"" +deviceId + "\"" + "]}"
 
-            byte[] byteArray = Encoding.UTF8.GetBytes("{"
-                                                      + "\"app_id\": \"b5f5a37e-f5e1-4663-b008-877dd5ad96d8\","
-                                                      + "\"contents\": {\"en\": \"Akash Message\"},"
-                                                      + "\"include_player_ids\": [\"88b30f7d-771b-4cf9-8088-0bb16eb03068\"]}");
+                ;
+            byte[] byteArray = Encoding.UTF8.GetBytes(data);
 
             string responseContent = null;
 
